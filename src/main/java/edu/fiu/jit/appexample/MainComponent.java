@@ -12,7 +12,7 @@ import java.util.List;
  * A simple example main component. You can add a main method to
  * your main component class if you want to execute your app with it.
  * 
- * @author asengupt
+ * @author Frank Rotolante
  *
  */
 public class MainComponent implements GenericComponent {
